@@ -1,0 +1,4 @@
+- Implementing Dependency Injection (DI) in Go
+    - Injecting dependencies during object initialization
+    - Injecting dependencies using a setter method
+    - Injecting dependencies during method (function) calls
